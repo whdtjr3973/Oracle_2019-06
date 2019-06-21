@@ -1,0 +1,4 @@
+-- 주석
+--SQLQ: DBMS에게 명령어를 보낼때 사용하는 언어
+-- Structure Query Language
+-- DBMS에게 보내는 명령어를 Quary라고 한다.
