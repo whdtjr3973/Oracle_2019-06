@@ -15,3 +15,5 @@ CREATE TABLE tbl_books(
 CREATE SEQUENCE seq_book
 START WITH 1
 INCREMENT BY 1;
+
+SELECT * FROM tbl_books;
