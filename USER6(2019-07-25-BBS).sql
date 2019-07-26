@@ -43,3 +43,13 @@ CREATE TABLE tbl_bbs_file(
 CREATE SEQUENCE seq_bbs_file
 START WITH 1
 INCREMENT BY 1;
+
+SELECT * FROM tbl_bbs_file;
+SELECT * FROM tbl_bbs;
+
+DELETE FROM tbl_bbs;
+DELETE FROM tbl_bbs_file;
+
+commit;
+
+delete from tbl_menu;
